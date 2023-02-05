@@ -1,10 +1,8 @@
-
+123
 56787980
 457647684
 add line
 commit test
-<<<<<<< HEAD
 kfhkdgjkh
-=======
 rjgergergkl
->>>>>>> 034747a8d21bebcd18261d47fe0c81dad1f22525
+
